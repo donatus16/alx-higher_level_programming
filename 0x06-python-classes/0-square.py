@@ -3,4 +3,4 @@ class Square:
     pass
 
 
-p = Square()
+print(Square())
