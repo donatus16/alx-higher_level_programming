@@ -4,4 +4,3 @@ class Square:
 
 
 p = Square()
-print(p)
