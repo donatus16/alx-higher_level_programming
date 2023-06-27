@@ -4,5 +4,5 @@ class Square:
         pass
 
 
-""""p = Square()
-print("{}".format(p))"""
+p = Square()
+print("{}".format(p))
