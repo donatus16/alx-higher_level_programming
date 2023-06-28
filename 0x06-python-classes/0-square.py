@@ -4,5 +4,4 @@ class Square:
     pass
 
 
-p = Square()
-print("{}".format(p))
+
